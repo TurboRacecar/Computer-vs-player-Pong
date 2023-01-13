@@ -4,7 +4,7 @@ score1 = 0
 score2 = 0
 
 wn = turtle.Screen()
-wn.title("Ultra Turbo Extreme Pong!")
+wn.title("Ultra Turbo Extreme Pong by @TurboRacecar")
 wn.bgcolor("green")
 wn.setup(width=840, height=640)
 wn.tracer(0)
